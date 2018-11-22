@@ -1,4 +1,4 @@
-package com.perfma;
+package org.duqi.twosum;
 
 import java.util.*;
 
